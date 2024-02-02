@@ -11,21 +11,22 @@ This is my basic Debian configuration, these are the first things I do when boot
 
 In ```/etc/sudoers``` add:
 
-  username  ALL=(ALL) NOPASSWD:ALL
+    username  ALL=(ALL) NOPASSWD:ALL
 
 #### Update
 
-  sudo apt-get update && sudo apt-get upgrade
+    sudo apt-get update && sudo apt-get upgrade
 
 #### Install zsh
 
-  sudo apt install zsh
+    sudo apt install zsh
 
 ### My Debian configs
 
 #### i3 with kitty, starship, and polybar
 
-TODO: put links to dotfiles
+[See README](./debian/i3-kitty-polybar/README.md)
+[See files](./debian/i3-kitty-polybar)
 
 #### Hyprland (TODO)
 
