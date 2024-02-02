@@ -25,8 +25,7 @@ In ```/etc/sudoers``` add:
 
 #### i3 with kitty, starship, and polybar
 
-[See README](./debian/i3-kitty-polybar/README.md)
-[See files](./debian/i3-kitty-polybar)
+[See files and README](./debian/i3-kitty-polybar)
 
 #### Hyprland (TODO)
 
