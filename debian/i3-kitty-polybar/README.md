@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-TODO: add screenshots
+![i3-kitty-screen1](TODO image link)
 
 ## Packages
 
@@ -18,6 +18,12 @@ TODO: add screenshots
 
     sudo apt install zsh
     sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+
+### Feh (for background)
+
+    sudo apt intsall feh
+
+<br>
 
 ## Setup
 
