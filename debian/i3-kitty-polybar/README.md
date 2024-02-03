@@ -29,7 +29,9 @@ Note that screenshot key is set to the ```printscrn``` key for full screenshot, 
 
 ### i3lock-fancy
 
-    git clone
+    git clone https://github.com/meskarune/i3lock-fancy.git
+    cd i3lock-fancy
+    sudo make install
 
 <br>
 
