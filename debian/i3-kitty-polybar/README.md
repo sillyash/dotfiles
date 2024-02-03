@@ -12,9 +12,11 @@
 
     sudo apt install kitty i3 polybar
 
-### Screenshot dependencies
+### Screenshot tools
 
     sudo apt install maim xclip xdotool
+
+Note that screenshot key is set to the ```printscrn``` key for full screenshot, and ```super + printscrn``` for cropped screenshot.
 
 ### Zsh and Oh My Zsh
 
@@ -24,6 +26,10 @@
 ### Feh (for background)
 
     sudo apt intsall feh
+
+### i3lock-fancy
+
+    git clone
 
 <br>
 
