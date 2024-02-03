@@ -14,4 +14,22 @@ TODO: add screenshots
 
     sudo apt install maim xclip xdotool
 
-### a
+### Zsh and Oh My Zsh
+
+    sudo apt install zsh
+    sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+
+## Setup
+
+### Gnome as a desktop manager
+
+For startup, login, etc.
+
+**I use ```gnome-tweaks``` to change fonts and gtk themes**
+
+### Copying this repository
+
+**Don't forget to add a dot in front of the folder names**
+
+```config``` -> ```.config``` etc...
+Click yes if your system prompts you about overwriting some files.
