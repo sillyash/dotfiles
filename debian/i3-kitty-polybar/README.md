@@ -2,7 +2,9 @@
 
 ## Screenshots
 
-![i3-kitty-screen1](TODO image link)
+![i3-kitty1](./screenshot1)
+![i3-kitty2](./screenshot2)
+
 
 ## Packages
 
